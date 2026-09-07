@@ -2,16 +2,17 @@
 
 ## 0.1 — Core intervention
 
-- [ ] Android project foundation
-- [ ] Home screen
-- [ ] PAUSE ME
-- [ ] Persistent cooldown timer
-- [ ] Private local vent
-- [ ] Delete vent
-- [ ] Reset/distraction menu
-- [ ] Completion/reassessment
-- [ ] Settings
-- [ ] Basic tests
+- [x] Android project foundation
+- [x] Home screen
+- [x] PAUSE ME
+- [x] Persistent cooldown timer
+- [x] Private local vent
+- [x] Delete vent
+- [x] Reset/distraction menu
+- [x] Completion/reassessment
+- [x] Settings
+- [ ] Basic automated tests
+- [ ] Release/debug APK validation on a physical device
 
 ## 0.2 — App interruption
 
